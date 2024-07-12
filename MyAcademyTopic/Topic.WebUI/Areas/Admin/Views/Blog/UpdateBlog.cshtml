@@ -1,0 +1,57 @@
+﻿
+@model UpdateBlogDto
+@{
+    ViewData["Title"] = "UpdateBlog";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Blog Alanı</h4>
+            <p class="card-description">
+                Blog Güncelleme Sayfası
+            </p>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <input type="hidden" class="form-control" asp-for="BlogID">
+                <div class="form-group">
+                    <label>Blog Adı</label>
+                    <input type="text" class="form-control" asp-for="Title">
+                </div>
+                <div class="form-group">
+                    <label>Kategori Seçiniz</label>
+                    <select asp-for="CategoryID" asp-items="@ViewBag.Categories" class="form-control"></select>
+                </div>
+                <div class="form-group">
+                    <label>Kapak Görseli</label>
+                    <input type="text" class="form-control" asp-for="CoverImageUrl">
+                </div>
+                <div class="form-group">
+                    <label>Blog Resim 1</label>
+                    <input type="text" class="form-control" asp-for="Image1">
+                </div>
+                <div class="form-group">
+                    <label>Blog Resim 2</label>
+                    <input type="text" class="form-control" asp-for="Image2">
+                </div>
+                <div class="form-group">
+                    <label>Kısa Açıkama</label>
+                    <input type="text" class="form-control" asp-for="ShortDescription">
+                </div>
+                <div class="form-group">
+                    <label>Uzun Açıklama</label>
+                    <textarea rows="5" class="form-control" asp-for="LongDescription"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.js"></script>
+
+

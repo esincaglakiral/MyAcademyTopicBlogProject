@@ -1,0 +1,17 @@
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\bin\Debug\net8.0\Topic.BusinessLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\bin\Debug\net8.0\Topic.BusinessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\bin\Debug\net8.0\Topic.BusinessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\bin\Debug\net8.0\Topic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\bin\Debug\net8.0\Topic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\bin\Debug\net8.0\Topic.DataAccessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\bin\Debug\net8.0\Topic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.BusinessLayer.csproj.AssemblyReference.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.BusinessLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.BusinessLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.Bu.70F84AFC.Up2Date
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.BusinessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\refint\Topic.BusinessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\Topic.BusinessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.BusinessLayer\obj\Debug\net8.0\ref\Topic.BusinessLayer.dll

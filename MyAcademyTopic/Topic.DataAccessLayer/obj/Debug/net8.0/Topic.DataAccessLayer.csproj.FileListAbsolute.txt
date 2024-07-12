@@ -1,0 +1,17 @@
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\bin\Debug\net8.0\Topic.DataAccessLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\bin\Debug\net8.0\Topic.DataAccessLayer.runtimeconfig.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\bin\Debug\net8.0\Topic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\bin\Debug\net8.0\Topic.DataAccessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\bin\Debug\net8.0\Topic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\bin\Debug\net8.0\Topic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.csproj.AssemblyReference.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.Da.269EAB1F.Up2Date
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\refint\Topic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\Topic.DataAccessLayer.genruntimeconfig.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DataAccessLayer\obj\Debug\net8.0\ref\Topic.DataAccessLayer.dll

@@ -1,0 +1,11 @@
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\bin\Debug\net8.0\Topic.EntityLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\bin\Debug\net8.0\Topic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\bin\Debug\net8.0\Topic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\Topic.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\Topic.EntityLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\Topic.EntityLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\Topic.EntityLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\Topic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\refint\Topic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\Topic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.EntityLayer\obj\Debug\net8.0\ref\Topic.EntityLayer.dll

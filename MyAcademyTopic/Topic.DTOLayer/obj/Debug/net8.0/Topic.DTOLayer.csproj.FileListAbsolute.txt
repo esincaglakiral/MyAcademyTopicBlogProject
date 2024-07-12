@@ -1,0 +1,11 @@
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\bin\Debug\net8.0\Topic.DTOLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\bin\Debug\net8.0\Topic.DTOLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\bin\Debug\net8.0\Topic.DTOLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\Topic.DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\Topic.DTOLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\Topic.DTOLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\Topic.DTOLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\Topic.DTOLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\refint\Topic.DTOLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\Topic.DTOLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyTopic\Topic.DTOLayer\obj\Debug\net8.0\ref\Topic.DTOLayer.dll

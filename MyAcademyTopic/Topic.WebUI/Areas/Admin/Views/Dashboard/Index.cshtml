@@ -1,0 +1,44 @@
+﻿@model List<CategoryOfResultsWithBlogDto>
+@{
+    ViewData["Title"] = "Admin Dashboard";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<div class="container">
+    @await Component.InvokeAsync("_StatisticComponentPartial")
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class=" pt-3">
+                    <table class="table table-striped project-orders-table">
+                        <thead>
+                            <tr>
+                                <th class="ml-5">#</th>
+                                <th class="ml-5">Kategori Adı</th>
+                                <th>Kategoriye ait blog Sayısı</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                count++;
+                                <tr>
+                                    <td>@count</td>
+                                    <td>@item.CategoryName</td>
+                                    <td>@item.BlogCount</td>
+
+
+                                </tr>
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
